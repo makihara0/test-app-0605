@@ -6,4 +6,4 @@
 
 ## 目標
 -  GitHubへのcommitとpushを**完全に理解**する
--　GitHub CopilotとGitHub Copilot Chatでコードが生成できる
+-  GitHub CopilotとGitHub Copilot Chatでコードが生成できる
